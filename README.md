@@ -26,7 +26,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,git,github,githubactions,powershell,bash,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,git,github,githubactions,powershell,bash,vscode" alt="Tech Stack" />
 </p>
 
 ---

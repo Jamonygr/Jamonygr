@@ -1,6 +1,6 @@
-<!-- Header Banner -->
+<!-- Animated Header Banner with Twinkling Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Beyond%20Cloud%20with%20Chriz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Azure%20|%20Terraform%20|%20Infrastructure%20as%20Code&descAlignY=55&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Beyond%20Cloud%20with%20Chriz&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Azure%20|%20Terraform%20|%20Infrastructure%20as%20Code&descAlignY=55&descSize=18" alt="Header" />
 </p>
 
 <!-- Typing SVG -->
@@ -36,10 +36,6 @@ name: Chris Panagiotidis
 location: Germany 🇩🇪
 current_role: Azure Cloud Engineer & MCT
 
-certifications:
-  - Microsoft Certified Trainer (MCT)
-  - Azure IaaS Cloud Engineer
-  
 focus_areas:
   - Azure Infrastructure & Networking
   - Terraform & Infrastructure as Code
@@ -121,20 +117,55 @@ fun_fact: "I believe the best way to learn is by doing!"
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎓 Certifications & Focus Areas
+## 🎯 Focus Areas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AZ--700-Azure_Network_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-700"/>
-  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-104"/>
-  <img src="https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AZ-305"/>
-  <img src="https://img.shields.io/badge/MCT-Microsoft_Certified_Trainer-FF6B00?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCT"/>
-  <img src="https://img.shields.io/badge/Terraform-HashiCorp_Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Azure_Infrastructure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Enterprise_Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="IaC"/>
+  <img src="https://img.shields.io/badge/Cloud_Coaching-FF6B00?style=for-the-badge&logo=microsoft&logoColor=white" alt="Coaching"/>
 </p>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📚 Featured Projects
+
+<!-- Project Showcase Cards -->
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Jamonygr/azure-landing-zone-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80"/>
+<br><b>Azure Landing Zone Lab</b>
+<br><sub>Enterprise hub-spoke with firewall, VPN & identity</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Jamonygr/azure-network-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="80"/>
+<br><b>Azure Network Lab</b>
+<br><sub>vWAN, Route Server - AZ-700 Prep</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Jamonygr/azure-terraform-pipeline-with-stages">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
+<br><b>Terraform Pipeline</b>
+<br><sub>Azure DevOps IaC Automation</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Jamonygr/azure-landing-zone-lab">
@@ -144,18 +175,6 @@ fun_fact: "I believe the best way to learn is by doing!"
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-network-lab&theme=tokyonight&hide_border=true" alt="azure-network-lab"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Jamonygr/azure-terraform-pipeline-with-stages">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-terraform-pipeline-with-stages&theme=tokyonight&hide_border=true" alt="azure-terraform-pipeline-with-stages"/>
-  </a>
-</p>
-
-| 🏆 Project | 📝 Description | 🔧 Tech |
-|:-----------|:--------------|:--------|
-| [**🏢 azure-landing-zone-lab**](https://github.com/Jamonygr/azure-landing-zone-lab) | Complete enterprise Azure environment with hub-spoke networking, firewall, VPN, identity services | `Terraform` `Azure` |
-| [**🌐 azure-network-lab**](https://github.com/Jamonygr/azure-network-lab) | vWAN environment with Secured Hub, VPN, Route Server - Perfect for **AZ-700** certification prep | `Terraform` `Azure` |
-| [**🔄 azure-terraform-pipeline-with-stages**](https://github.com/Jamonygr/azure-terraform-pipeline-with-stages) | Azure DevOps pipeline for Terraform infrastructure as code | `Azure DevOps` `Terraform` |
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -211,17 +230,11 @@ fun_fact: "I believe the best way to learn is by doing!"
 ## ✨ Quote I Live By
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20cloud%20is%20not%20a%20destination%20%E2%80%94%20it%27s%20a%20journey%20of%20continuous%20learning.&author=Chris%20Panagiotidis" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20cloud%20is%20not%20a%20destination%20—%20it's%20a%20journey%20of%20continuous%20learning.&author=Chris%20Panagiotidis" alt="Quote"/>
 </p>
 
-<!-- Random Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Footer"/>
 </p>
 
 <!-- Snake Animation -->
@@ -231,4 +244,15 @@ fun_fact: "I believe the best way to learn is by doing!"
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Footer"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" width="40"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="40"/>
 </p>

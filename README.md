@@ -55,6 +55,56 @@ fun_fact: "I believe the best way to learn is by doing!"
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📚 Featured Projects
+
+<!-- Project Showcase Cards -->
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Jamonygr/azure-landing-zone-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80"/>
+<br><b>Azure Landing Zone Lab</b>
+<br><sub>Enterprise hub-spoke with firewall, VPN & identity</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Jamonygr/azure-network-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="80"/>
+<br><b>Azure Network Lab</b>
+<br><sub>vWAN, Route Server - AZ-700 Prep</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Jamonygr/azure-terraform-pipeline-with-stages">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
+<br><b>Terraform Pipeline</b>
+<br><sub>Azure DevOps IaC Automation</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Jamonygr/azure-landing-zone-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-landing-zone-lab&theme=tokyonight&hide_border=true" alt="azure-landing-zone-lab"/>
+  </a>
+  <a href="https://github.com/Jamonygr/azure-network-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-network-lab&theme=tokyonight&hide_border=true" alt="azure-network-lab"/>
+  </a>
+</p>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## ⚡ Tech Stack & Skills
 
 <p align="center">
@@ -126,57 +176,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📚 Featured Projects
-
-<!-- Project Showcase Cards -->
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<a href="https://github.com/Jamonygr/azure-landing-zone-lab">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80"/>
-<br><b>Azure Landing Zone Lab</b>
-<br><sub>Enterprise hub-spoke with firewall, VPN & identity</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/Jamonygr/azure-network-lab">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="80"/>
-<br><b>Azure Network Lab</b>
-<br><sub>vWAN, Route Server - AZ-700 Prep</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/Jamonygr/azure-terraform-pipeline-with-stages">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
-<br><b>Terraform Pipeline</b>
-<br><sub>Azure DevOps IaC Automation</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Jamonygr/azure-landing-zone-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-landing-zone-lab&theme=tokyonight&hide_border=true" alt="azure-landing-zone-lab"/>
-  </a>
-  <a href="https://github.com/Jamonygr/azure-network-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-network-lab&theme=tokyonight&hide_border=true" alt="azure-network-lab"/>
-  </a>
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jamonygr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats"/>

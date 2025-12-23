@@ -1,6 +1,6 @@
 <!-- Animated Header Banner with Twinkling Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Beyond%20Cloud%20with%20Chriz&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Azure%20|%20Terraform%20|%20Infrastructure%20as%20Code&descAlignY=55&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Beyond%20Cloud%20with%20Chriz&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Azure%20|%20Terraform%20|%20Infrastructure%20as%20Code&descAlignY=55&descSize=18" alt="Header" />
 </p>
 
 <!-- Typing SVG -->
@@ -245,7 +245,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Footer"/>
 </p>
 
 <p align="center">

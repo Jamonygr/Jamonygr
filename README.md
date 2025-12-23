@@ -69,8 +69,6 @@ fun_fact: "I believe the best way to learn is by doing!"
   <img src="https://img.shields.io/badge/Azure_IaaS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure IaaS"/>
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="M365"/>
   <img src="https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Networking"/>
-  <img src="https://img.shields.io/badge/Virtual_WAN-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="vWAN"/>
-  <img src="https://img.shields.io/badge/ExpressRoute-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ExpressRoute"/>
 </p>
 </details>
 
@@ -83,7 +81,6 @@ fun_fact: "I believe the best way to learn is by doing!"
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure CLI"/>
-  <img src="https://img.shields.io/badge/ARM/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ARM/Bicep"/>
 </p>
 </details>
 

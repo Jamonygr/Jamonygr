@@ -115,7 +115,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ChrizPanGr">
+  <a href="https://twitter.com/jamonyvice">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;

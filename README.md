@@ -26,8 +26,17 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,git,github,githubactions,powershell,bash,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,powershell,git,github,vscode" alt="Tech Stack" />
 </p>
+
+| Category | Technologies |
+|:---------|:-------------|
+| ☁️ **Cloud & Infrastructure** | Azure IaaS, Microsoft 365, Azure Networking, Virtual WAN, ExpressRoute |
+| 🔧 **Automation & IaC** | Terraform, Azure DevOps, PowerShell, Azure CLI, ARM/Bicep |
+| 📊 **Monitoring & Logging** | Azure Monitor, Log Analytics, Datadog, Application Insights |
+| 💾 **Backup & DR** | Veeam Backup, Azure Backup, Azure Site Recovery |
+| 🛠️ **Tools** | Git, GitHub Copilot, VS Code, Jira, Confluence |
+| 📋 **Methodologies** | ITIL (Incident/Change Management), RCA, CI/CD Pipelines |
 
 ---
 

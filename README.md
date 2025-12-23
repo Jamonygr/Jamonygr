@@ -29,6 +29,39 @@
   <img src="https://skillicons.dev/icons?i=azure,terraform,powershell,git,github,vscode" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_IaaS-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure IaaS"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="M365"/>
+  <img src="https://img.shields.io/badge/Azure_Networking-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Networking"/>
+  <img src="https://img.shields.io/badge/Virtual_WAN-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="vWAN"/>
+  <img src="https://img.shields.io/badge/ExpressRoute-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="ExpressRoute"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure CLI"/>
+  <img src="https://img.shields.io/badge/ARM/Bicep-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="ARM/Bicep"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Monitor"/>
+  <img src="https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Log Analytics"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/Veeam_Backup-00B336?style=flat-square&logo=veeam&logoColor=white" alt="Veeam"/>
+  <img src="https://img.shields.io/badge/Azure_Backup-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Backup"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/ITIL-6A1B9A?style=flat-square&logoColor=white" alt="ITIL"/>
+</p>
+
 | Category | Technologies |
 |:---------|:-------------|
 | ☁️ **Cloud & Infrastructure** | Azure IaaS, Microsoft 365, Azure Networking, Virtual WAN, ExpressRoute |

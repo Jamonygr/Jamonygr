@@ -21,7 +21,6 @@
   <a href="https://twitter.com/jamonyvice">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Jamonygr&color=0078D4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 <!-- Divider -->

@@ -98,13 +98,29 @@
 
 <p align="center">
   <a href="http://www.beyondcloudwithchriz.com/">
-    <img src="https://img.shields.io/badge/Website-beyondcloudwithchriz.com-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_Website-beyondcloudwithchriz.com-0078D4?style=for-the-badge&logoColor=white" alt="Website" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/christospanagiotidis/">
-    <img src="https://img.shields.io/badge/LinkedIn-christospanagiotidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Christos_Panagiotidis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="http://www.beyondcloudwithchriz.com/">
+    <img src="https://skillicons.dev/icons?i=html" alt="Website" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/christospanagiotidis/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ChrizPanGr">
-    <img src="https://img.shields.io/badge/Twitter-@ChrizPanGr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Jamonygr">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
   </a>
 </p>
 

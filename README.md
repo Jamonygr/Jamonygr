@@ -107,13 +107,13 @@ fun_fact: "I believe the best way to learn is by doing!"
 ## ⚡ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-plain-wordmark.svg" alt="Azure (classic logo)" width="90" height="48" />
+  <img src="assets/azure-classic.svg" alt="Azure (classic logo)" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/microsoft/vscode-azurecli/main/images/azure_icon.png" alt="Azure CLI" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
 </p>
 

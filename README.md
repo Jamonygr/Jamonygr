@@ -107,7 +107,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 ## ⚡ Tech Stack & Skills
 
 <p align="center">
-  <img src="assets/azure-classic.svg" alt="Azure (2020 logo)" width="48" height="48" />
+  <img src="assets/azure-2020.png" alt="Azure (2020 logo)" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" />

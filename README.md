@@ -92,17 +92,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/Jamonygr/azure-landing-zone-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-landing-zone-lab&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="azure-landing-zone-lab"/>
-  </a>
-  <a href="https://github.com/Jamonygr/azure-network-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=azure-network-lab&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="azure-network-lab"/>
-  </a>
-  <a href="https://github.com/Jamonygr/terraform-github-actions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jamonygr&repo=terraform-github-actions&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="terraform-github-actions"/>
-  </a>
-</p>
+
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

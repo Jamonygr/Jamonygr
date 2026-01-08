@@ -176,8 +176,36 @@ fun_fact: "I believe the best way to learn is by doing!"
 
 ##  GitHub Analytics
 
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jamonygr&style=for-the-badge&color=0078D4" alt="Profile Views"/>
+</p>
+
+<!-- GitHub Stats using Profile Summary Cards (working alternative) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamonygr&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jamonygr&theme=tokyonight" alt="GitHub Stats" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jamonygr&theme=tokyonight" alt="Top Languages by Repo" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamonygr&theme=tokyonight&utcOffset=1" alt="Commits Time" width="32%"/>
+</p>
+
+<!-- Streak Stats (DenverCoder1 - demolab.com) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jamonygr&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak"/>
+</p>
+
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamonygr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0078D4&line=0078D4&point=FFFFFF" alt="Activity Graph" width="100%"/>
+</p>
+
+<!-- GitHub Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Jamonygr?style=for-the-badge&logo=github&color=0078D4" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Jamonygr?style=for-the-badge&logo=github&color=0078D4&affiliations=OWNER" alt="Stars"/>
 </p>
 
 <!-- Divider -->

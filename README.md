@@ -42,9 +42,9 @@ focus_areas:
   - Hands-On Lab Development
 
 currently_building:
-  - AZ-700 Networking Labs
-  - Azure Landing Zone Labs
-  - Enterprise Cloud Solutions
+  - Azure Landing Zone Lab (Enterprise hub-spoke)
+  - Azure Network Lab (AZ-700 Prep)
+  - Terraform GitHub Actions Pipeline
 
 fun_fact: "I believe the best way to learn is by doing!"
 ```

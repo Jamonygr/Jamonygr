@@ -80,12 +80,12 @@ fun_fact: "I believe the best way to learn is by doing!"
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/Jamonygr/azure-terraform-pipeline-with-stages">
+<a href="https://github.com/Jamonygr/terraform-github-actions">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
 <br><b>Terraform Pipeline</b>
-<br><sub>Azure DevOps IaC Automation</sub>
+<br><sub>GitHub Actions CI/CD Pipeline</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </a>
 </td>

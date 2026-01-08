@@ -192,11 +192,6 @@ fun_fact: "I believe the best way to learn is by doing!"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jamonygr&theme=tokyonight&utcOffset=1" alt="Commits Time" width="32%"/>
 </p>
 
-<!-- Streak Stats (DenverCoder1 - demolab.com) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jamonygr&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak"/>
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jamonygr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0078D4&line=0078D4&point=FFFFFF" alt="Activity Graph" width="100%"/>

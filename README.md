@@ -176,11 +176,6 @@ fun_fact: "I believe the best way to learn is by doing!"
 
 ##  GitHub Analytics
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jamonygr&style=for-the-badge&color=0078D4" alt="Profile Views"/>
-</p>
-
 <!-- GitHub Stats using Profile Summary Cards (working alternative) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jamonygr&theme=tokyonight" alt="Profile Details" width="100%"/>

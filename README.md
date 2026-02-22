@@ -222,7 +222,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 
 <p align="center">
   <a href="http://www.beyondcloudwithchriz.com/">
-    <img src="https://skillicons.dev/icons?i=html" alt="Website" width="60"/>
+    <img src="assets/beyondcloud-icon.jpg" alt="Beyond Cloud with Chriz" width="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/christospanagiotidis/">

@@ -59,7 +59,17 @@ fun_fact: "I believe the best way to learn is by doing!"
 <!-- Project Showcase Cards -->
 <table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<a href="https://github.com/Jamonygr/aks-landing-zone-lab">
+<img src="assets/aks.svg" width="80"/>
+<br><b>AKS Landing Zone Lab</b>
+<br><sub>Enterprise AKS platform with landing zones, runbooks & GitOps</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+</a>
+</td>
+<td align="center" width="25%">
 <a href="https://github.com/Jamonygr/azure-landing-zone-lab">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80"/>
 <br><b>Azure Landing Zone Lab</b>
@@ -69,7 +79,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/Jamonygr/azure-network-lab">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="80"/>
 <br><b>Azure Network Lab</b>
@@ -79,7 +89,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 </a>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <a href="https://github.com/Jamonygr/terraform-github-actions">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
 <br><b>Terraform Pipeline</b>

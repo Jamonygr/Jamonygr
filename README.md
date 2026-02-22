@@ -118,6 +118,7 @@ fun_fact: "I believe the best way to learn is by doing!"
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" alt="GitHub Copilot" width="48" height="48" />
+  <img src="https://github.com/openai.png" alt="OpenAI Codex" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
 </p>
 

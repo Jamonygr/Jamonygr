@@ -42,7 +42,7 @@ focus_areas:
   - Hands-On Lab Development
 
 currently_building:
-  - Azure Landing Zone Lab (Enterprise hub-spoke)
+  - AKS Landing Zone Lab (Enterprise AKS platform)
   - Azure Network Lab (AZ-700 Prep)
   - Terraform GitHub Actions Pipeline
 

@@ -103,7 +103,7 @@ fun_fact: "I believe the best way to learn is by doing!"
   <img src="assets/azure-2020.png" alt="Azure (2020 logo)" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="48" height="48" />
+  <img src="assets/aks.svg" alt="Azure Kubernetes Service (AKS)" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" />

@@ -44,7 +44,7 @@ focus_areas:
 currently_building:
   - AKS Landing Zone Lab (Enterprise AKS platform)
   - Azure Network Lab (AZ-700 Prep)
-  - Terraform GitHub Actions Pipeline
+  - Azure From Zero To Hero Lab
 
 fun_fact: "I believe the best way to learn is by doing!"
 ```
@@ -90,12 +90,12 @@ fun_fact: "I believe the best way to learn is by doing!"
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Jamonygr/terraform-github-actions">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80"/>
-<br><b>Terraform Pipeline</b>
-<br><sub>GitHub Actions CI/CD Pipeline</sub>
+<a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/tree/main">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80"/>
+<br><b>Azure From Zero To Hero</b>
+<br><sub>Hands-on Azure labs from portal to Terraform IaC</sub>
 <br><br>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </a>
 </td>

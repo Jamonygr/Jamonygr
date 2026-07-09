@@ -113,7 +113,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 </td>
 <td align="center" width="65%">
 <a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/blob/main/ClickopzBook.pdf">
-<img src="assets/clickopz-title-lockup.svg" alt="Beyond Clickopz - From Manual Cloud Deployments to Infrastructure as Code" width="380"/>
+<img src="assets/clickopz-title-lockup.svg" alt="Beyond Clickopz - From Manual Cloud Deployments to Infrastructure as Code" width="430"/>
 </a>
 <br><br>
 <a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/blob/main/ClickopzBook.pdf">

@@ -1,0 +1,27 @@
+<svg width="560" height="170" viewBox="0 0 560 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Beyond Clickopz</title>
+  <desc id="desc">From Manual Cloud Deployments to Infrastructure as Code</desc>
+  <defs>
+    <linearGradient id="chrome" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="18%" stop-color="#bfe9ff"/>
+      <stop offset="34%" stop-color="#31516a"/>
+      <stop offset="52%" stop-color="#ffffff"/>
+      <stop offset="70%" stop-color="#8bdcff"/>
+      <stop offset="100%" stop-color="#112a3f"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#33d8ff"/>
+      <stop offset="50%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#157dff"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="170%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#009dff" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="2" flood-color="#02111f" flood-opacity="0.95"/>
+    </filter>
+  </defs>
+  <rect width="560" height="170" fill="transparent"/>
+  <text x="280" y="60" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="58" font-weight="900" letter-spacing="2" fill="url(#chrome)" stroke="#56c7ff" stroke-width="1.3" paint-order="stroke fill" filter="url(#glow)">BEYOND</text>
+  <text x="280" y="113" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="58" font-weight="900" letter-spacing="2" fill="url(#chrome)" stroke="#56c7ff" stroke-width="1.3" paint-order="stroke fill" filter="url(#glow)">CLICKOPZ</text>
+  <text x="280" y="148" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.2" fill="url(#neon)">FROM MANUAL CLOUD DEPLOYMENTS TO INFRASTRUCTURE AS CODE</text>
+</svg>

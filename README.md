@@ -102,7 +102,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 </tr>
 </table>
 
-## 📖 Free eBook
+<h3 align="center">📖 Free eBook</h3>
 
 <table align="center">
 <tr>
@@ -113,9 +113,8 @@ fun_fact: "I believe the best way to learn is by doing!"
 </td>
 <td align="center" width="65%">
 <a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/blob/main/ClickopzBook.pdf">
-<b>Beyond Clickopz</b>
+<img src="assets/clickopz-title-lockup.svg" alt="Beyond Clickopz - From Manual Cloud Deployments to Infrastructure as Code" width="380"/>
 </a>
-<br><sub>From Manual Cloud Deployments to Infrastructure as Code</sub>
 <br><br>
 <a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/blob/main/ClickopzBook.pdf">
 <img src="https://img.shields.io/badge/Read_Free_eBook-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Free eBook"/>

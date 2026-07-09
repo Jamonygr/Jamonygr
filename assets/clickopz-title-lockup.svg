@@ -1,0 +1,49 @@
+<svg width="560" height="180" viewBox="0 0 560 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Beyond Clickopz</title>
+  <desc id="desc">From Manual Cloud Deployments to Infrastructure as Code</desc>
+  <defs>
+    <linearGradient id="blueChrome" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="9%" stop-color="#dff9ff"/>
+      <stop offset="18%" stop-color="#21c8ff"/>
+      <stop offset="31%" stop-color="#061733"/>
+      <stop offset="43%" stop-color="#f7fdff"/>
+      <stop offset="54%" stop-color="#7de8ff"/>
+      <stop offset="66%" stop-color="#034f9f"/>
+      <stop offset="79%" stop-color="#dffaff"/>
+      <stop offset="91%" stop-color="#0f8cff"/>
+      <stop offset="100%" stop-color="#051225"/>
+    </linearGradient>
+    <linearGradient id="blueEdge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="34%" stop-color="#45d8ff"/>
+      <stop offset="70%" stop-color="#006dff"/>
+      <stop offset="100%" stop-color="#d5f8ff"/>
+    </linearGradient>
+    <linearGradient id="subtitleChrome" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60ddff"/>
+      <stop offset="24%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#009cff"/>
+      <stop offset="76%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#4bd7ff"/>
+    </linearGradient>
+    <filter id="chromeGlow" x="-25%" y="-35%" width="150%" height="185%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#00aeff" flood-opacity="0.95"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="11" flood-color="#004cff" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="5" stdDeviation="2" flood-color="#010915" flood-opacity="1"/>
+    </filter>
+    <filter id="subtitleGlow" x="-15%" y="-50%" width="130%" height="220%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#00bfff" flood-opacity="0.85"/>
+    </filter>
+  </defs>
+  <rect width="560" height="180" fill="transparent"/>
+  <g font-family="Impact, Arial Black, sans-serif" font-size="60" font-weight="900" text-anchor="middle" filter="url(#chromeGlow)">
+    <text x="280" y="62" fill="none" stroke="#020712" stroke-width="9" paint-order="stroke fill">BEYOND</text>
+    <text x="280" y="62" fill="url(#blueChrome)" stroke="url(#blueEdge)" stroke-width="2.4" paint-order="stroke fill">BEYOND</text>
+    <text x="280" y="62" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.9">BEYOND</text>
+    <text x="280" y="117" fill="none" stroke="#020712" stroke-width="9" paint-order="stroke fill">CLICKOPZ</text>
+    <text x="280" y="117" fill="url(#blueChrome)" stroke="url(#blueEdge)" stroke-width="2.4" paint-order="stroke fill">CLICKOPZ</text>
+    <text x="280" y="117" fill="none" stroke="#ffffff" stroke-width="0.8" opacity="0.9">CLICKOPZ</text>
+  </g>
+  <text x="280" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.8" font-weight="800" fill="url(#subtitleChrome)" stroke="#02111f" stroke-width="0.4" paint-order="stroke fill" filter="url(#subtitleGlow)" textLength="500" lengthAdjust="spacingAndGlyphs">FROM MANUAL CLOUD DEPLOYMENTS TO INFRASTRUCTURE AS CODE</text>
+</svg>

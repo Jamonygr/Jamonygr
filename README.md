@@ -106,13 +106,18 @@ fun_fact: "I believe the best way to learn is by doing!"
 
 <table align="center">
 <tr>
-<td align="center" width="100%">
-<h3>System Thinking for Cloud Engineers</h3>
-<p><b>From Strategy to Architecture</b></p>
-<p>
-A practical 366-page guide for engineers who want to move beyond isolated resources and design Azure as a connected, adaptive platform. The book combines systems thinking with the Cloud Adoption Framework, landing-zone architecture, Terraform delivery, Azure CLI and PowerShell validation, governance, security, observability, operations, and continuous improvement.
-</p>
-<p><sub>By Christos Panagiotidis</sub></p>
+<td align="center" width="35%">
+<a href="./System%20Thinking%20for%20Cloud%20Engineers.pdf">
+<img src="assets/system-thinking-book-cover.png" alt="System Thinking for Cloud Engineers eBook cover" width="230"/>
+</a>
+</td>
+<td align="center" width="65%">
+<a href="./System%20Thinking%20for%20Cloud%20Engineers.pdf">
+<img src="assets/system-thinking-title-lockup.svg" alt="System Thinking for Cloud Engineers - From Strategy to Architecture" width="430"/>
+</a>
+<br><br>
+<sub>A practical 366-page guide to designing Azure as a connected, adaptive platform through systems thinking, the Cloud Adoption Framework, landing zones, Terraform, validation, governance, security, operations, and continuous improvement.</sub>
+<br><br>
 <a href="./System%20Thinking%20for%20Cloud%20Engineers.pdf">
 <img src="https://img.shields.io/badge/Read_Free_eBook-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read System Thinking for Cloud Engineers"/>
 </a>

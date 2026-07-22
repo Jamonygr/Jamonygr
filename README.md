@@ -123,11 +123,6 @@ fun_fact: "I believe the best way to learn is by doing!"
 </a>
 </td>
 </tr>
-</table>
-
-<br>
-
-<table align="center">
 <tr>
 <td align="center" width="35%">
 <a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/blob/main/ClickopzBook.pdf">

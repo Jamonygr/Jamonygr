@@ -29,20 +29,23 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <!-- Microsoft Community Credentials -->
-<table align="center">
-<tr>
-<td align="center" width="62%">
+<p align="center">
 <a href="https://mvp.microsoft.com/">
-<img src="assets/microsoft-mvp-logo.png" alt="Microsoft Most Valuable Professional (MVP)" width="420" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/microsoft-mvp-logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/microsoft-mvp-logo.png">
+<img src="assets/microsoft-mvp-logo.png" alt="Microsoft Most Valuable Professional (MVP)" width="280" />
+</picture>
 </a>
-</td>
-<td align="center" width="38%">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification">
-<img src="assets/microsoft-mct-logo.png" alt="Microsoft Certified Trainer (MCT)" width="250" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/microsoft-mct-logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/microsoft-mct-logo.png">
+<img src="assets/microsoft-mct-logo.png" alt="Microsoft Certified Trainer (MCT)" width="140" />
+</picture>
 </a>
-</td>
-</tr>
-</table>
+</p>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 

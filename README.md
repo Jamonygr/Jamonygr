@@ -30,21 +30,13 @@
 
 <!-- Microsoft Community Credentials -->
 <p align="center">
-<a href="https://mvp.microsoft.com/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/microsoft-mvp-logo-dark.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/microsoft-mvp-logo.png">
-<img src="assets/microsoft-mvp-logo.png" alt="Microsoft Most Valuable Professional (MVP)" width="280" />
-</picture>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/microsoft-mct-logo-dark.png">
-<source media="(prefers-color-scheme: light)" srcset="assets/microsoft-mct-logo.png">
-<img src="assets/microsoft-mct-logo.png" alt="Microsoft Certified Trainer (MCT)" width="140" />
-</picture>
-</a>
+  <a href="https://mvp.microsoft.com/">
+    <img src="https://img.shields.io/badge/Microsoft-MVP-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Most Valuable Professional (MVP)" />
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification">
+    <img src="https://img.shields.io/badge/Microsoft-Certified_Trainer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Trainer (MCT)" />
+  </a>
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>

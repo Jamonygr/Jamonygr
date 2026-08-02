@@ -28,12 +28,26 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+<!-- Microsoft Community Credentials -->
+<p align="center">
+  <a href="https://mvp.microsoft.com/">
+    <img src="https://img.shields.io/badge/Microsoft-MVP-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Most Valuable Professional (MVP)" />
+  </a>
+  &nbsp;
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification">
+    <img src="https://img.shields.io/badge/Microsoft-Certified_Trainer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Trainer (MCT)" />
+  </a>
+</p>
+
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
 name: Chris Panagiotidis
 location: Germany 🇩🇪
-current_role: Azure Cloud Engineer & MCT
+current_role: Azure Cloud Engineer
+community_roles:
+  - Microsoft MVP
+  - Microsoft Certified Trainer (MCT)
 
 focus_areas:
   - Azure Infrastructure & Networking

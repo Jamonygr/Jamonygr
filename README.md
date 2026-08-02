@@ -31,11 +31,11 @@
 <!-- Microsoft Community Credentials -->
 <p align="center">
   <a href="https://mvp.microsoft.com/">
-    <img src="https://img.shields.io/badge/Microsoft-MVP-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Most Valuable Professional (MVP)" />
+    <img src="assets/microsoft-mvp-square.png" alt="Microsoft Most Valuable Professional (MVP)" width="150" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/mct-certification">
-    <img src="https://img.shields.io/badge/Microsoft-Certified_Trainer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified Trainer (MCT)" />
+    <img src="assets/microsoft-mct-square.png" alt="Microsoft Certified Trainer (MCT)" width="150" />
   </a>
 </p>
 

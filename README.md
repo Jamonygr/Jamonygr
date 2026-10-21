@@ -71,46 +71,273 @@ fun_fact: "I believe the best way to learn is by doing!"
 ## 📚 Featured Projects
 
 <!-- Project Showcase Cards -->
-<table align="center">
+<h3 align="center">☁️ Foundations &amp; Landing Zones</h3>
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <a href="https://github.com/Jamonygr/aks-landing-zone-lab">
-<img src="assets/aks.svg" width="80"/>
+<img src="assets/aks.svg" alt="AKS Landing Zone Lab" width="80"/>
 <br><b>AKS Landing Zone Lab</b>
-<br><sub>Enterprise AKS platform with landing zones, runbooks & GitOps</sub>
+<br><sub>Enterprise AKS platform with landing zones, runbooks &amp; GitOps</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/AKS-0078D4?style=flat-square" alt="AKS"/>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <a href="https://github.com/Jamonygr/azure-landing-zone-lab">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="Azure Landing Zone Lab" width="80"/>
 <br><b>Azure Landing Zone Lab</b>
-<br><sub>Enterprise hub-spoke with firewall, VPN & identity</sub>
+<br><sub>Hub-spoke networking with firewall, VPN, identity, governance, and monitoring</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"/>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="25%">
 <a href="https://github.com/Jamonygr/azure-network-lab">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="80"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Azure Network Lab" width="80"/>
 <br><b>Azure Network Lab</b>
-<br><sub>vWAN, Route Server - AZ-700 Prep</sub>
+<br><sub>Virtual WAN, Route Server, VPN, and private networking for AZ-700</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"/>
 </a>
 </td>
-<td align="center" width="25%">
-<a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero/tree/main">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="80"/>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/Azure-From-Zero-To-Hero">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Azure From Zero To Hero" width="80"/>
 <br><b>Azure From Zero To Hero</b>
-<br><sub>Hands-on Azure labs from portal to Terraform IaC</sub>
+<br><sub>Learn Terraform and deploy Windows workloads, networking, security, and monitoring on Azure</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Lab-0078D4?style=flat-square" alt="Azure Lab"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+</a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🎓 Azure Certification Labs</h3>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/az900-azure-fundamentals-labs">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="AZ-900 Fundamentals Labs" width="80"/>
+<br><b>AZ-900 Fundamentals Labs</b>
+<br><sub>Build Azure fundamentals through guided cloud, service, and governance exercises</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=flat-square" alt="Azure CLI"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/az104-azure-administrator-labs">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="AZ-104 Administrator Labs" width="80"/>
+<br><b>AZ-104 Administrator Labs</b>
+<br><sub>Practise Azure identity, storage, compute, networking, and monitoring through guided labs</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=flat-square" alt="Azure CLI"/>
+<img src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square" alt="Bicep"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/Azure-Solutions-Architect-Expert">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" alt="AZ-305 Solutions Architect Labs" width="80"/>
+<br><b>AZ-305 Solutions Architect Labs</b>
+<br><sub>Practise Azure architecture decisions across identity, data, continuity, infrastructure, and migration</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=flat-square" alt="Azure CLI"/>
+<img src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square" alt="Bicep"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/az400-azure-devops-engineer-labs">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="AZ-400 DevOps Engineer Labs" width="80"/>
+<br><b>AZ-400 DevOps Engineer Labs</b>
+<br><sub>Practise source control, pipelines, security, and observability with Azure DevOps and GitHub</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+</a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🌐 Networking &amp; Hybrid Infrastructure</h3>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-virtual-network-manager-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Azure Network Manager Lab" width="80"/>
+<br><b>Azure Network Manager Lab</b>
+<br><sub>Validate connectivity, security rules, IPAM, and routing from hub-spoke to mesh</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/AVNM-0078D4?style=flat-square" alt="AVNM"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-virtual-network-manager-ipam-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Azure Network Manager IPAM Lab" width="80"/>
+<br><b>Azure Network Manager IPAM Lab</b>
+<br><sub>Allocate IPAM prefixes and explore policy-driven networking, firewall inspection, and mesh connectivity</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/IPAM-0078D4?style=flat-square" alt="IPAM"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-arc-hybrid-management-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Azure Arc Hybrid Management Lab" width="80"/>
+<br><b>Azure Arc Hybrid Management Lab</b>
+<br><sub>Manage hybrid Windows and Linux servers with policy, monitoring, and patching</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure_Arc-0078D4?style=flat-square" alt="Azure Arc"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/full-ad-domain-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Full AD Domain Lab" width="80"/>
+<br><b>Full AD Domain Lab</b>
+<br><sub>Build Azure-hosted Active Directory with DNS, group policies, PKI, and services</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square" alt="Active Directory"/>
+</a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🛠️ Platforms &amp; Workloads</h3>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-avd-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Azure Virtual Desktop Lab" width="80"/>
+<br><b>Azure Virtual Desktop Lab</b>
+<br><sub>Deploy pooled desktops, RemoteApps, FSLogix profiles, autoscale, and operational monitoring</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/AVD-0078D4?style=flat-square" alt="AVD"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-platform-engineering-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Azure Platform Engineering Lab" width="80"/>
+<br><b>Azure Platform Engineering Lab</b>
+<br><sub>Build self-service golden paths with automated provisioning, deployment, monitoring, and cleanup</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-private-build-agents-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Azure Private Build Agents Lab" width="80"/>
+<br><b>Azure Private Build Agents Lab</b>
+<br><sub>Provision private Managed DevOps Pools with controlled egress and private endpoints</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/DevOps_Pools-0078D4?style=flat-square" alt="DevOps Pools"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/windows-failover-clustering-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Windows Failover Clustering Lab" width="80"/>
+<br><b>Windows Failover Clustering Lab</b>
+<br><sub>Deploy two-node Windows clusters with shared disks, Cloud Witness, and failover drills</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square" alt="Windows Server"/>
+</a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">📊 Operations, Security &amp; Resilience</h3>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-operation-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Azure Operation Lab" width="80"/>
+<br><b>Azure Operation Lab</b>
+<br><sub>Practise Azure monitoring, patching, automation, backup, governance, and incident response</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square" alt="Azure Monitor"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/Azure-Security-Lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Azure Security Lab" width="80"/>
+<br><b>Azure Security Lab</b>
+<br><sub>Explore firewall segmentation, secrets, policy, and security monitoring across hub-spoke networks</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure_Firewall-0078D4?style=flat-square" alt="Azure Firewall"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/finops-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" alt="Azure FinOps Lab" width="80"/>
+<br><b>Azure FinOps Lab</b>
+<br><sub>Control Azure spend with budgets, cost exports, Infracost, and shutdown schedules</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/FinOps-0078D4?style=flat-square" alt="FinOps"/>
+</a>
+</td>
+<td align="center" valign="top" width="25%">
+<a href="https://github.com/Jamonygr/azure-chaos-studio-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Azure Chaos Studio Lab" width="80"/>
+<br><b>Azure Chaos Studio Lab</b>
+<br><sub>Practise controlled CPU pressure and shutdown experiments against Windows scale sets</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Chaos_Studio-0078D4?style=flat-square" alt="Chaos Studio"/>
+</a>
+</td>
+</tr>
+</table>
+
+<h3 align="center">⚙️ Terraform &amp; AI</h3>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Jamonygr/certified-terraform-associate-azure-edition">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Terraform Associate: Azure Edition" width="80"/>
+<br><b>Terraform Associate: Azure Edition</b>
+<br><sub>Prepare for Terraform Associate with Azure scenarios covering workflows, state, and modules</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"/>
+</a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Jamonygr/azure-terraform-pipeline-with-stages">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Azure Terraform Pipeline" width="80"/>
+<br><b>Azure Terraform Pipeline</b>
+<br><sub>Separate Terraform plan and apply stages using Azure DevOps YAML pipelines</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square" alt="Azure DevOps"/>
+</a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/Jamonygr/ai-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Azure AI Lab" width="80"/>
+<br><b>Azure AI Lab</b>
+<br><sub>Learn Azure AI fundamentals, retrieval, responsible AI, and evaluation with practical exercises</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
 </a>
 </td>
 </tr>

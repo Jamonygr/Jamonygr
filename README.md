@@ -136,7 +136,7 @@ fun_fact: "I believe the best way to learn is by doing!"
 <a href="https://github.com/Jamonygr/az104-azure-administrator-labs">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="AZ-104 Administrator Labs" width="80"/>
 <br><b>AZ-104 Administrator Labs</b>
-<br><sub>Practise Azure identity, storage, compute, networking, and monitoring through guided labs</sub>
+<br><sub>28 guided labs and 1,250 practice questions covering Azure identity, storage, compute, networking, and monitoring</sub>
 <br><br>
 <img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=flat-square" alt="Azure CLI"/>
 <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square" alt="Bicep"/>
@@ -306,6 +306,31 @@ fun_fact: "I believe the best way to learn is by doing!"
 </tr>
 </table>
 
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Jamonygr/azure-migration-lab">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Azure Migration Lab" width="80"/>
+<br><b>Azure Migration Lab</b>
+<br><sub>Practise Azure-hosted application, SQL, and file migration with rehearsal, cutover, rollback, and cleanup</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white" alt="PowerShell"/>
+</a>
+</td>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Jamonygr/sre-agent">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="SRE Agent Azure Lab" width="80"/>
+<br><b>SRE Agent Azure Lab</b>
+<br><sub>Practise Azure incident detection, telemetry, and guided remediation with Monitor and Automation</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square" alt="Azure Monitor"/>
+</a>
+</td>
+</tr>
+</table>
+
 <h3 align="center">⚙️ Terraform &amp; AI</h3>
 
 <table align="center" width="100%">
@@ -338,6 +363,31 @@ fun_fact: "I believe the best way to learn is by doing!"
 <br><br>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+</a>
+</td>
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Jamonygr/Terraforming-Azure">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Terraforming Azure" width="80"/>
+<br><b>Terraforming Azure</b>
+<br><sub>Learn Terraform and Azure through 40 labs, 200 explained questions, and a staged hub-spoke capstone</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure"/>
+</a>
+</td>
+<td align="center" valign="top" width="50%">
+<a href="https://github.com/Jamonygr/terraform-github-actions">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Terraform GitHub Actions" width="80"/>
+<br><b>Terraform GitHub Actions</b>
+<br><sub>Reuse Terraform workflows with Azure OIDC, plan/apply, security checks, cost review, and drift detection</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&amp;logo=terraform&amp;logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions"/>
 </a>
 </td>
 </tr>

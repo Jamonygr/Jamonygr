@@ -398,18 +398,18 @@ fun_fact: "I believe the best way to learn is by doing!"
 <table align="center">
 <tr>
 <td align="center" width="35%">
-<a href="https://raw.githubusercontent.com/Jamonygr/az104-azure-administrator-labs/main/book/Cloud_Administration_in_Practice.pdf">
+<a href="https://github.com/Jamonygr/az104-azure-administrator-labs/blob/main/book/Cloud_Administration_in_Practice.pdf">
 <img src="https://raw.githubusercontent.com/Jamonygr/az104-azure-administrator-labs/main/book/cover.jpg" alt="Cloud Administration in Practice eBook cover" width="230"/>
 </a>
 </td>
 <td align="center" width="65%">
-<a href="https://raw.githubusercontent.com/Jamonygr/az104-azure-administrator-labs/main/book/Cloud_Administration_in_Practice.pdf">
+<a href="https://github.com/Jamonygr/az104-azure-administrator-labs/blob/main/book/Cloud_Administration_in_Practice.pdf">
 <img src="assets/cloud-administration-title-lockup.svg" alt="Cloud Administration in Practice by Christos Panagiotidis" width="430"/>
 </a>
 <br><br>
 <sub>A 472-page guide to Azure administration, with hands-on labs in identity, networking, storage, monitoring, and recovery, plus an integrated project and AZ-104 practice questions.</sub>
 <br><br>
-<a href="https://raw.githubusercontent.com/Jamonygr/az104-azure-administrator-labs/main/book/Cloud_Administration_in_Practice.pdf">
+<a href="https://github.com/Jamonygr/az104-azure-administrator-labs/blob/main/book/Cloud_Administration_in_Practice.pdf">
 <img src="https://img.shields.io/badge/Read_Free_eBook-0078D4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Read Cloud Administration in Practice"/>
 </a>
 </td>
